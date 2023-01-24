@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Cos !!!");
 
         System.out.println("cos nowego !!");
+
+        System.out.println("kolejna rzecz !!!");
     }
 }
